@@ -24,6 +24,7 @@ locals {
   private_subnets                    = ["subnet-095d3b3fce2ae47eb", "subnet-0d636a2a6a859703a", "subnet-00e54555f38348e9a"]
   db_subnet                        = ["subnet-073bde0b3fb537fbb", "subnet-0ebd482942e4828a1", "subnet-0a25efc81255df5e6"]
   project_name                      = "gadgets"
+ }
 
 # Providers
 provider "aws" {
