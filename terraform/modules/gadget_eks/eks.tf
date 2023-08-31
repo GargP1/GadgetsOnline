@@ -52,6 +52,7 @@ module "eks" {
         delete = "20m"
       }
     }
+    }
 
   tags = {
     Product = var.cluster_name
@@ -59,7 +60,7 @@ module "eks" {
 
   vpc_id = var.vpc_id
  }
-}
+
 
 resource "null_resource" "create_kubeconfig" {
 
