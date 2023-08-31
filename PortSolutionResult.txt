@@ -1,0 +1,94 @@
+==========
+References
+==========
+GadgetsOnline
+GadgetsOnline.Api
+GadgetsOnline.Repository.Interfaces
+GadgetsOnline.Models
+GadgetsOnline.Controllers
+GadgetsOnline.Services
+GadgetsOnline.ViewModel
+GadgetsOnline.Migrations
+GadgetsOnline.Repository
+GadgetsOnline.Repository.Implimentation
+System
+System.Collections.Generic
+System.Linq
+System.Threading.Tasks
+Microsoft.AspNetCore.Hosting
+Microsoft.Extensions.Configuration
+Microsoft.Extensions.Hosting
+Microsoft.Extensions.Logging
+Microsoft.AspNetCore.Builder
+Microsoft.AspNetCore.HttpsPolicy
+Microsoft.AspNetCore.Mvc
+Microsoft.Extensions.DependencyInjection
+System.Net
+System.Net.Http
+System.Web.Http
+WebActivatorEx
+Swashbuckle.Application
+System.Configuration
+System.Web
+Microsoft.AspNetCore.Http
+System.Text.Encodings.Web
+System.ComponentModel.DataAnnotations
+Microsoft.EntityFrameworkCore
+System.ComponentModel
+System.Reflection
+System.Text
+project.all
+
+===============
+DownloadedFiles
+===============
+project.all.json
+system.web.json
+system.configuration.json
+system.web.http.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: C:\Users\Administrator\Downloads\Ported\GadgetsOnline\GadgetsOnline.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: C:\Users\Administrator\Downloads\Ported\GadgetsOnline\GadgetsOnline.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+
+===========
+BuildErrors
+===========
+
+
