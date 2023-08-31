@@ -58,6 +58,7 @@ module "eks" {
   }
 
   vpc_id = var.vpc_id
+ }
 }
 
 resource "null_resource" "create_kubeconfig" {
