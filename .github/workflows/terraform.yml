@@ -95,4 +95,4 @@ jobs:
 
       - name: Deploy to Amazon EKS
         id: deploy
-        run: kubectl rollout restart gadgets
+        run: kubectl rollout restart deployment/gadgets
