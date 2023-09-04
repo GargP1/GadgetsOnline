@@ -89,6 +89,7 @@ jobs:
 
       - name: Build, tag, and push image to Amazon ECR
         run: |
+          cd ../..
           docker build -t 412857254796.dkr.ecr.ap-southeast-2.amazonaws.com/gadgetsonline:latest .
           docker push 412857254796.dkr.ecr.ap-southeast-2.amazonaws.com/gadgetsonline:latest
 
